@@ -1,0 +1,100 @@
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Đồ án 1.exe.config
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Đồ án 1.exe
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Đồ án 1.pdb
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.Properties.Resources.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.exe
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.pdb
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmformMain.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmNhanVien.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmKhachHang.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmDangnhaphethongnhanvien1.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmDichVu.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmPhong.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmThongTinNV.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmlichlamviec.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmDoiMatKhau.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmBangLuong.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmChamCong.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\RdlCompile.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\RdlCompile.compiled
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.csproj.CopyComplete
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\EnvDTE.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\stdole.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmQLyTaiKhoan.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\EPPlus.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\System.Buffers.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\System.Memory.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\EPPlus.xml
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\System.Buffers.xml
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\System.Memory.xml
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmHoaDonDV.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmHoaDonKH.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmThongkePhong.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\rptHoaDonKhachHang.rdlc
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\rptThongKeDichVu.rdlc
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\rptThongKePhong.rdlc

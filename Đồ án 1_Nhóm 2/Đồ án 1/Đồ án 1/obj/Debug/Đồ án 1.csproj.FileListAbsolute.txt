@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Đồ án 1.exe.config
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Đồ án 1.exe
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Đồ án 1.pdb
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.Properties.Resources.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.exe
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.pdb
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmformMain.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmNhanVien.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmHoaDon.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmKhachHang.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmBaoCao.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmDangKyDatPhong.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmDangnhaphethongnhanvien1.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.frmDichVu.resources

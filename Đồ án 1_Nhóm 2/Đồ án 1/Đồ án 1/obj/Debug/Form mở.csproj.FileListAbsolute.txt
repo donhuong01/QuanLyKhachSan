@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Đồ án 1.exe.config
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Đồ án 1.exe
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\bin\Debug\Đồ án 1.pdb
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Form mở.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.Form1.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ_án_1.Properties.Resources.resources
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Form mở.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Form mở.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.exe
+C:\Users\admin\source\repos\Đồ án 1\Đồ án 1\obj\Debug\Đồ án 1.pdb
